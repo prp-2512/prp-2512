@@ -34,7 +34,7 @@ Building scalable applications, exploring modern technologies, and continuously 
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ### Frontend
@@ -44,7 +44,7 @@ Building scalable applications, exploring modern technologies, and continuously 
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=express)
+![Express JS](https://img.shields.io/badge/Express-6DB33F?style=for-the-badge&logo=express)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -57,37 +57,7 @@ Building scalable applications, exploring modern technologies, and continuously 
 
 ---
 
-## 🌟 Featured Projects
 
-### 🔹 Project 1
-Short description of your best project.
-
-**Tech Stack:** React, Node.js, MongoDB
-
-🔗 Live Demo  
-🔗 Repository
-
----
-
-### 🔹 Project 2
-Short description of your second-best project.
-
-**Tech Stack:** Java, Spring Boot, MySQL
-
-🔗 Live Demo  
-🔗 Repository
-
----
-
-### 🔹 Project 3
-Short description of your flagship project.
-
-**Tech Stack:** Python, AI/ML
-
-🔗 Live Demo  
-🔗 Repository
-
----
 
 ## 📊 GitHub Statistics
 
@@ -128,13 +98,7 @@ Short description of your flagship project.
 
 ---
 
-## 📫 Let's Connect
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
-- Portfolio: YOUR_PORTFOLIO
-
----
 
 <p align="center">
 ⭐ If you like my work, consider following me and checking out my repositories.
